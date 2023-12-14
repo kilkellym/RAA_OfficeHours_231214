@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>RAA_OfficeHours_231214 - Command 1</Text>
+    <Description>Some description for RAA_OfficeHours_231214</Description>
+    <Assembly>RAA_OfficeHours_231214.dll</Assembly>
+    <FullClassName>RAA_OfficeHours_231214.Command1</FullClassName>
+    <ClientId>d9684ef6-3e99-4098-84c0-f86d0a3648f3</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>RAA_OfficeHours_231214 - Command 2</Text>
+    <Description>Some description for RAA_OfficeHours_231214</Description>
+    <Assembly>RAA_OfficeHours_231214.dll</Assembly>
+    <FullClassName>RAA_OfficeHours_231214.Command2</FullClassName>
+    <ClientId>5e3db31c-5a0a-412f-ab3d-3907674b9b76</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>RAA_OfficeHours_231214</Name>
+    <Assembly>RAA_OfficeHours_231214.dll</Assembly>
+    <FullClassName>RAA_OfficeHours_231214.App</FullClassName>
+    <ClientId>2061d4a2-f272-4a8d-b12a-0f2d0c8f9eff</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
